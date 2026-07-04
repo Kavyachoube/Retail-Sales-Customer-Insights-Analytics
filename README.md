@@ -276,8 +276,8 @@ Through this project, I strengthened my skills in:
 
 **Kavya Choubey**
 
-- 💼 LinkedIn: *(Add your LinkedIn Profile URL)*
-- 📧 Email: *(Add your Email Address)*
+- 💼 LinkedIn: https://www.linkedin.com/in/kavya-choubey/
+- 📧 Email: kavya.choube@gmail.com
 
 ---
 
